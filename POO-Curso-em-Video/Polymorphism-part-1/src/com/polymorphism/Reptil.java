@@ -16,6 +16,3 @@ public class Reptil extends Animal {
     System.out.println("Som de réptil");
   }
 }
-class Cobra extends Reptil {
-
-}
